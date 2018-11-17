@@ -24,8 +24,6 @@ namespace DiscordoBot
 
             discord = new DiscordClient(new DiscordConfiguration
             {
-                UseInternalLogHandler = true,
-                LogLevel = LogLevel.Debug,
                 Token = DiscordoBotToken.myBotToken,
                 TokenType = TokenType.Bot
             });

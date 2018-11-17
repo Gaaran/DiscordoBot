@@ -1,0 +1,14 @@
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\bin\Release\netcoreapp2.0\win10-x64\DiscordoBot.exe
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\bin\Release\netcoreapp2.0\win10-x64\DiscordoBot.deps.json
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\bin\Release\netcoreapp2.0\win10-x64\DiscordoBot.runtimeconfig.json
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\bin\Release\netcoreapp2.0\win10-x64\DiscordoBot.runtimeconfig.dev.json
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\bin\Release\netcoreapp2.0\win10-x64\DiscordoBot.dll
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\bin\Release\netcoreapp2.0\win10-x64\DiscordoBot.pdb
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\obj\Release\netcoreapp2.0\win10-x64\DiscordoBot.csproj.CoreCompileInputs.cache
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\obj\Release\netcoreapp2.0\win10-x64\DiscordoBot.AssemblyInfoInputs.cache
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\obj\Release\netcoreapp2.0\win10-x64\DiscordoBot.AssemblyInfo.cs
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\obj\Release\netcoreapp2.0\win10-x64\DiscordoBot.dll
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\obj\Release\netcoreapp2.0\win10-x64\DiscordoBot.pdb
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\obj\Release\netcoreapp2.0\win10-x64\DiscordoBot.csprojResolveAssemblyReference.cache

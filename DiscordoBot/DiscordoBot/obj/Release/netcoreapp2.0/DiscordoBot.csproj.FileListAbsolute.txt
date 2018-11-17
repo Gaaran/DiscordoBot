@@ -1,0 +1,11 @@
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\bin\Release\netcoreapp2.0\DiscordoBot.deps.json
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\bin\Release\netcoreapp2.0\DiscordoBot.runtimeconfig.json
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\bin\Release\netcoreapp2.0\DiscordoBot.runtimeconfig.dev.json
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\bin\Release\netcoreapp2.0\DiscordoBot.dll
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\bin\Release\netcoreapp2.0\DiscordoBot.pdb
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\obj\Release\netcoreapp2.0\DiscordoBot.csprojResolveAssemblyReference.cache
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\obj\Release\netcoreapp2.0\DiscordoBot.csproj.CoreCompileInputs.cache
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\obj\Release\netcoreapp2.0\DiscordoBot.AssemblyInfoInputs.cache
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\obj\Release\netcoreapp2.0\DiscordoBot.AssemblyInfo.cs
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\obj\Release\netcoreapp2.0\DiscordoBot.dll
+I:\Projets Visual Sutdio\ProjetBotDiscord\DiscordoBot\DiscordoBot\obj\Release\netcoreapp2.0\DiscordoBot.pdb

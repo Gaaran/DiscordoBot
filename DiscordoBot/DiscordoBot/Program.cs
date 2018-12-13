@@ -3,6 +3,8 @@ using System.Threading.Tasks;
 using DSharpPlus;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.Entities;
+using DSharpPlus.VoiceNext;
+using DSharpPlus.VoiceNext.Codec;
 
 namespace DiscordoBot
 {
@@ -12,6 +14,7 @@ namespace DiscordoBot
         public static DiscordClient discord;
         static CommandsNextModule commands;
         //static DiscordMessage message;
+        public static VoiceNextClient voiceNextClient;
 
         static void Main(string[] args)
         {
@@ -34,6 +37,13 @@ namespace DiscordoBot
             });
             
             commands.RegisterCommands<DiscordoCommands>();
+
+            VoiceNextConfiguration vNextConfiguration = new VoiceNextConfiguration
+            {
+                VoiceApplication = VoiceApplication.Music
+            };
+
+            voiceNextClient = discord.UseVoiceNext(vNextConfiguration);
             
             await discord.ConnectAsync();
             await Task.Delay(-1);

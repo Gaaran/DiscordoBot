@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "a9b9096a1abec5b0b06698c64706661607f48c71"
+    "signature": "df32417d00ebc64f811802adec92837d3adbd55e"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,7 +10,8 @@
         "dependencies": {
           "DSharpPlus": "3.2.3",
           "DSharpPlus.CommandsNext": "3.2.3",
-          "DSharpPlus.Interactivity": "3.2.3"
+          "DSharpPlus.Interactivity": "3.2.3",
+          "DSharpPlus.VoiceNext": "3.2.3"
         },
         "runtime": {
           "DiscordoBot.dll": {}
@@ -42,6 +43,14 @@
         },
         "runtime": {
           "lib/netstandard2.0/DSharpPlus.Interactivity.dll": {}
+        }
+      },
+      "DSharpPlus.VoiceNext/3.2.3": {
+        "dependencies": {
+          "DSharpPlus": "3.2.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/DSharpPlus.VoiceNext.dll": {}
         }
       },
       "Microsoft.CSharp/4.3.0": {
@@ -1049,6 +1058,13 @@
       "sha512": "sha512-dqNj48DOxExZml4LfPHXXKrBMm7XSk1a9uMTb6jGA163vdLieAU99vLSbeKhfLMoHFFYAu3Nc/QzO5jarEvptQ==",
       "path": "dsharpplus.interactivity/3.2.3",
       "hashPath": "dsharpplus.interactivity.3.2.3.nupkg.sha512"
+    },
+    "DSharpPlus.VoiceNext/3.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2liOihhecN8vonR+T4gpU2uaSGLZ8hef+UYTmWSr2m48nWH77hHSNaYV3LRwl+lZJr0GNInOe1fyK54/K3Ew2g==",
+      "path": "dsharpplus.voicenext/3.2.3",
+      "hashPath": "dsharpplus.voicenext.3.2.3.nupkg.sha512"
     },
     "Microsoft.CSharp/4.3.0": {
       "type": "package",

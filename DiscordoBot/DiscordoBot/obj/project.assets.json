@@ -42,6 +42,18 @@
           "lib/netstandard2.0/DSharpPlus.Interactivity.dll": {}
         }
       },
+      "DSharpPlus.VoiceNext/3.2.3": {
+        "type": "package",
+        "dependencies": {
+          "DSharpPlus": "3.2.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/DSharpPlus.VoiceNext.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/DSharpPlus.VoiceNext.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1712,6 +1724,18 @@
         },
         "runtime": {
           "lib/netstandard2.0/DSharpPlus.Interactivity.dll": {}
+        }
+      },
+      "DSharpPlus.VoiceNext/3.2.3": {
+        "type": "package",
+        "dependencies": {
+          "DSharpPlus": "3.2.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/DSharpPlus.VoiceNext.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/DSharpPlus.VoiceNext.dll": {}
         }
       },
       "Microsoft.CSharp/4.3.0": {
@@ -3785,6 +3809,18 @@
         },
         "runtime": {
           "lib/netstandard2.0/DSharpPlus.Interactivity.dll": {}
+        }
+      },
+      "DSharpPlus.VoiceNext/3.2.3": {
+        "type": "package",
+        "dependencies": {
+          "DSharpPlus": "3.2.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/DSharpPlus.VoiceNext.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/DSharpPlus.VoiceNext.dll": {}
         }
       },
       "Microsoft.CSharp/4.3.0": {
@@ -5865,6 +5901,18 @@
         },
         "runtime": {
           "lib/netstandard2.0/DSharpPlus.Interactivity.dll": {}
+        }
+      },
+      "DSharpPlus.VoiceNext/3.2.3": {
+        "type": "package",
+        "dependencies": {
+          "DSharpPlus": "3.2.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/DSharpPlus.VoiceNext.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/DSharpPlus.VoiceNext.dll": {}
         }
       },
       "Microsoft.CSharp/4.3.0": {
@@ -7955,6 +8003,18 @@
         },
         "runtime": {
           "lib/netstandard2.0/DSharpPlus.Interactivity.dll": {}
+        }
+      },
+      "DSharpPlus.VoiceNext/3.2.3": {
+        "type": "package",
+        "dependencies": {
+          "DSharpPlus": "3.2.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/DSharpPlus.VoiceNext.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/DSharpPlus.VoiceNext.dll": {}
         }
       },
       "Microsoft.CSharp/4.3.0": {
@@ -10069,6 +10129,28 @@
         "lib/netstandard1.3/DSharpPlus.Interactivity.xml",
         "lib/netstandard2.0/DSharpPlus.Interactivity.dll",
         "lib/netstandard2.0/DSharpPlus.Interactivity.xml"
+      ]
+    },
+    "DSharpPlus.VoiceNext/3.2.3": {
+      "sha512": "2liOihhecN8vonR+T4gpU2uaSGLZ8hef+UYTmWSr2m48nWH77hHSNaYV3LRwl+lZJr0GNInOe1fyK54/K3Ew2g==",
+      "type": "package",
+      "path": "dsharpplus.voicenext/3.2.3",
+      "files": [
+        ".signature.p7s",
+        "dsharpplus.voicenext.3.2.3.nupkg.sha512",
+        "dsharpplus.voicenext.nuspec",
+        "lib/net45/DSharpPlus.VoiceNext.dll",
+        "lib/net45/DSharpPlus.VoiceNext.xml",
+        "lib/net46/DSharpPlus.VoiceNext.dll",
+        "lib/net46/DSharpPlus.VoiceNext.xml",
+        "lib/net47/DSharpPlus.VoiceNext.dll",
+        "lib/net47/DSharpPlus.VoiceNext.xml",
+        "lib/netstandard1.1/DSharpPlus.VoiceNext.dll",
+        "lib/netstandard1.1/DSharpPlus.VoiceNext.xml",
+        "lib/netstandard1.3/DSharpPlus.VoiceNext.dll",
+        "lib/netstandard1.3/DSharpPlus.VoiceNext.xml",
+        "lib/netstandard2.0/DSharpPlus.VoiceNext.dll",
+        "lib/netstandard2.0/DSharpPlus.VoiceNext.xml"
       ]
     },
     "Microsoft.CSharp/4.3.0": {
@@ -15288,6 +15370,7 @@
       "DSharpPlus >= 3.2.3",
       "DSharpPlus.CommandsNext >= 3.2.3",
       "DSharpPlus.Interactivity >= 3.2.3",
+      "DSharpPlus.VoiceNext >= 3.2.3",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -15341,6 +15424,10 @@
             "version": "[3.2.3, )"
           },
           "DSharpPlus.Interactivity": {
+            "target": "Package",
+            "version": "[3.2.3, )"
+          },
+          "DSharpPlus.VoiceNext": {
             "target": "Package",
             "version": "[3.2.3, )"
           },

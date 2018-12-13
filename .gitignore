@@ -8,6 +8,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+DiscordoBotToken.cs
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

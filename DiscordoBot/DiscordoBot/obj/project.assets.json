@@ -15298,11 +15298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\Projets Visual Sutdio\\ProjetBotDiscord\\DiscordoBot\\DiscordoBot\\DiscordoBot.csproj",
+      "projectUniqueName": "I:\\Projets Visual Sutdio\\ProjetBotDiscord\\Git\\DiscordoBot\\DiscordoBot\\DiscordoBot\\DiscordoBot.csproj",
       "projectName": "DiscordoBot",
-      "projectPath": "I:\\Projets Visual Sutdio\\ProjetBotDiscord\\DiscordoBot\\DiscordoBot\\DiscordoBot.csproj",
+      "projectPath": "I:\\Projets Visual Sutdio\\ProjetBotDiscord\\Git\\DiscordoBot\\DiscordoBot\\DiscordoBot\\DiscordoBot.csproj",
       "packagesPath": "C:\\Users\\SERGENT\\.nuget\\packages\\",
-      "outputPath": "I:\\Projets Visual Sutdio\\ProjetBotDiscord\\DiscordoBot\\DiscordoBot\\obj\\",
+      "outputPath": "I:\\Projets Visual Sutdio\\ProjetBotDiscord\\Git\\DiscordoBot\\DiscordoBot\\DiscordoBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
